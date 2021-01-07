@@ -1,2 +1,5 @@
+config:
+  value1: value1-git
+
 cors:
   enabled: true
